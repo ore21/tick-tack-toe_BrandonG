@@ -12,6 +12,9 @@
 		3F8DE75C220D1DAE003771C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F8DE75A220D1DAE003771C7 /* Main.storyboard */; };
 		3F8DE75E220D1DB0003771C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F8DE75D220D1DB0003771C7 /* Assets.xcassets */; };
 		3F8DE761220D1DB0003771C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F8DE75F220D1DB0003771C7 /* LaunchScreen.storyboard */; };
+		3F8DE76B220E2767003771C7 /* tic tac toe.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F8DE768220E2766003771C7 /* tic tac toe.png */; };
+		3F8DE76C220E2767003771C7 /*  .png in Resources */ = {isa = PBXBuildFile; fileRef = 3F8DE769220E2766003771C7 /*  .png */; };
+		3F8DE76D220E2767003771C7 /* o.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F8DE76A220E2766003771C7 /* o.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		3F8DE75D220D1DB0003771C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F8DE760220D1DB0003771C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F8DE762220D1DB0003771C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F8DE768220E2766003771C7 /* tic tac toe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tic tac toe.png"; sourceTree = "<group>"; };
+		3F8DE769220E2766003771C7 /*  .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = " .png"; sourceTree = "<group>"; };
+		3F8DE76A220E2766003771C7 /* o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				3F8DE75D220D1DB0003771C7 /* Assets.xcassets */,
 				3F8DE75F220D1DB0003771C7 /* LaunchScreen.storyboard */,
 				3F8DE762220D1DB0003771C7 /* Info.plist */,
+				3F8DE769220E2766003771C7 /*  .png */,
+				3F8DE76A220E2766003771C7 /* o.png */,
+				3F8DE768220E2766003771C7 /* tic tac toe.png */,
 			);
 			path = "tick tack toe";
 			sourceTree = "<group>";
@@ -124,6 +133,9 @@
 			files = (
 				3F8DE761220D1DB0003771C7 /* LaunchScreen.storyboard in Resources */,
 				3F8DE75E220D1DB0003771C7 /* Assets.xcassets in Resources */,
+				3F8DE76B220E2767003771C7 /* tic tac toe.png in Resources */,
+				3F8DE76D220E2767003771C7 /* o.png in Resources */,
+				3F8DE76C220E2767003771C7 /*  .png in Resources */,
 				3F8DE75C220D1DAE003771C7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
